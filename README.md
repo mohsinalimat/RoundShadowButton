@@ -1,2 +1,4 @@
 # RoundShadowButton
-swift 写的圆角并且带阴影的Button  
+
+# 效果
+![xg](https://github.com/GTMYang/RoundShadowButton/blob/master/txia.png)
